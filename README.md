@@ -5,9 +5,9 @@
 </head>
 <body>
 <ul>
-<li><a href="/Том Холланд/index.html">Том Холланд,</a></li>
-<li><a href="/Тоби магуаер/index.html ">Тоби Магуаер,</a></li>
-<li><a href="/Эндрю Гарфилд/index.html">Эндрю Гарфилд.</a></li>
+<li><a href="TXX.html">Том Холланд,</a></li>
+<li><a href="TMX.html">Тоби Магуаер,</a></li>
+<li><a href="AGX.html">Эндрю Гарфилд.</a></li>
 </ul>
 <table>
 </table>
